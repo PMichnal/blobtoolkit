@@ -35,7 +35,7 @@
                 "meta": ["layout"]
             }
         },
-        "required": ["sample", "datafile", "datatype"]
+        "required": ["sample", "datafile", "datatype", "layout"]
     },
     "uniqueEntries": ["sample"]
 }
